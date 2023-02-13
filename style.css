@@ -196,14 +196,14 @@ p {
 #form {
     text-align:center;
 }
-#text {
+.text {
     background-color:white;
     color:#007d7b;
     margin-right:200px;
     padding:10px;
     margin-top:-20px;
 }
-#help {
+.help {
     background-color:white;
     color:#007d7b;
     margin-right:200px;
